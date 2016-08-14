@@ -1,0 +1,14 @@
+{
+  "globals": {
+    "goog": false
+  },
+  "env": {
+    "es6": false
+  },
+  "rules": {
+    "valid-jsdoc": 0,
+    "require-jsdoc": 0,
+    "quotes": [2, "double"]
+  },
+  "extends": "google"
+}
